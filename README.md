@@ -13,5 +13,8 @@
 - [Bayesian Modeling Using WinBUGS](https://bayanbox.ir/view/5905894064843232892/Bayesian-Modeling-Using-WinBUGS-Wiley-Series-in-Computational-Statistics.pdf)
 - [Bayesian Statistics: An Introduction](https://www.amazon.com/Bayesian-Statistics-Introduction-Peter-Lee-dp-1118332571/dp/1118332571/ref=dp_ob_title_bk)
 
+# Software
+- [BUGS](https://www.mrc-bsu.cam.ac.uk/software/bugs/)
+
 # References
 
